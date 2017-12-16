@@ -4,5 +4,8 @@ using System.Text;
 
 namespace EventDrivenProject
 {
-    public delegate void NotificarSaque(decimal valor);
+    public class NotificacaoEventArgs
+    {
+        public decimal Valor { get; set; }
+    }
 }

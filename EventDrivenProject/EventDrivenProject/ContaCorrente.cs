@@ -8,7 +8,7 @@ namespace EventDrivenProject
     {
         public Cliente Cliente { get; set; }
         public decimal Saldo { get; private set; }
-        public NotificarSaque Notificar;
+        public event NotificarSaque Notificar;
 
         public ContaCorrente(Cliente cliente)
         {
@@ -20,7 +20,7 @@ namespace EventDrivenProject
             if (valor <= Saldo)
             {
                 Saldo -= valor;
-                Notificar(valor);
+                Notificar(this, new NotificacaoEventArgs { Valor = valor });
             }
         }
 

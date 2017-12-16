@@ -20,19 +20,19 @@ namespace EventDrivenProject
             Console.ReadLine();
         }
 
-        static void NotificarEmail(decimal valor)
+        static void NotificarEmail(object sender, NotificacaoEventArgs args)
         {
-            Console.WriteLine($"E-mail enviado: Saque efetuado no valor de {valor}.");
+            Console.WriteLine($"E-mail enviado: Saque efetuado no valor de {args.Valor}.");
         }
 
-        static void GravarLog(decimal valor)
+        static void GravarLog(object sender, NotificacaoEventArgs args)
         {
-            Console.WriteLine($"Gravando log: Saque efetuado no valor de {valor}.");
+            Console.WriteLine($"Gravando log: Saque efetuado no valor de {args.Valor}.");
         }
 
-        static void EnviandoSMS(decimal valor)
+        static void EnviandoSMS(object sender, NotificacaoEventArgs args)
         {
-            Console.WriteLine($"SMS para o número XXXX-XXXX: Saque efetuado no valor de {valor}.");
+            Console.WriteLine($"SMS para o número XXXX-XXXX: Saque efetuado no valor de {args.Valor}.");
         }
     }
 }
