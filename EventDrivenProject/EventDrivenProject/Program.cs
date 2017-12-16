@@ -16,6 +16,8 @@ namespace EventDrivenProject
             conta.Depositar(300.0M);
             conta.Depositar(1000.0M);
             conta.Sacar(100.00M);
+
+            Console.ReadLine();
         }
 
         static void NotificarEmail(decimal valor)
@@ -30,7 +32,7 @@ namespace EventDrivenProject
 
         static void EnviandoSMS(decimal valor)
         {
-            Console.WriteLine($"SMS do Banco: Saque efetuado no valor de {valor}.");
+            Console.WriteLine($"SMS para o número XXXX-XXXX: Saque efetuado no valor de {valor}.");
         }
     }
 }

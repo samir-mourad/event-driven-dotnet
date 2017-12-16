@@ -17,7 +17,7 @@ namespace EventDrivenProject
 
         public void Sacar(decimal valor)
         {
-            if (valor >= Saldo)
+            if (valor <= Saldo)
             {
                 Saldo -= valor;
                 Notificar(valor);
