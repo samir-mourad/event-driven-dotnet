@@ -1,0 +1,11 @@
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\bin\Debug\netcoreapp2.0\EventDrivenProject.deps.json
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\bin\Debug\netcoreapp2.0\EventDrivenProject.runtimeconfig.json
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\bin\Debug\netcoreapp2.0\EventDrivenProject.runtimeconfig.dev.json
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\bin\Debug\netcoreapp2.0\EventDrivenProject.dll
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\bin\Debug\netcoreapp2.0\EventDrivenProject.pdb
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\obj\Debug\netcoreapp2.0\EventDrivenProject.csprojResolveAssemblyReference.cache
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\obj\Debug\netcoreapp2.0\EventDrivenProject.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\obj\Debug\netcoreapp2.0\EventDrivenProject.AssemblyInfoInputs.cache
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\obj\Debug\netcoreapp2.0\EventDrivenProject.AssemblyInfo.cs
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\obj\Debug\netcoreapp2.0\EventDrivenProject.dll
+C:\Users\Samir\Desktop\Projetos\event-driven-dotnet\EventDrivenProject\EventDrivenProject\obj\Debug\netcoreapp2.0\EventDrivenProject.pdb
