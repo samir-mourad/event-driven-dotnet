@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EventDrivenProject
 {
-    public class NotificacaoEventArgs
+    public class NotificacaoEventArgs : EventArgs
     {
         public decimal Valor { get; set; }
     }
